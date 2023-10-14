@@ -1,4 +1,15 @@
 {
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "Simple json database to deploy to the host of your choice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Lokesh Sharma M",
   "dependencies": {
     "json-server": "^0.17.4"
   }
